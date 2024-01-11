@@ -1,0 +1,8 @@
+{
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": "latest"
+  },
+  "plugins": [],
+  "extends": ["eslint:recommended", "prettier"]
+}
